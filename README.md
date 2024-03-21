@@ -2,6 +2,8 @@
 
 This is a simple command-line program for managing a database of books. It allows users to add, delete, display, and save books to a text file.
 
+This is a basic demonstration showcasing the functionality of linked lists in C++. Through this demonstration, we illustrate the fundamental concepts and operations associated with linked lists, providing a simple yet informative example of their utilization in programming.
+
 ## Features
 
 - **Add a Book:** Add a new book to the database by providing ISBN, author, and title.
