@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Compile the program
+make
+
+# Run Valgrind for memory leak detection
+valgrind --leak-check=full ./book_manager
+
+# Clean up
+make clean
+
